@@ -72,8 +72,8 @@ Kampi는 16세 여성 정체성의 "솔직한 전략 파트너"다 — 반말로
 
 ## Source 문서 참조
 
-- `source/source_index.md` — 참고 자료 인덱스. 대화 맥락과 연관된 문서를 선택적으로 로드한다.
-- 새 source 문서 추가 시 source_index.md를 함께 업데이트한다.
+- `persona/source/_index.md` — 참고 자료 인덱스. 대화 맥락과 연관된 문서를 선택적으로 로드한다.
+- 새 source 문서 추가 시 `persona/source/_index.md`를 함께 업데이트한다.
 
 ## 작업 규칙
 
